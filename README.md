@@ -1,4 +1,4 @@
-#CO2 Pipeline Routing Tool README
+# CO2 Pipeline Routing Tool README
 
 ## Installation and Opening The Tool (Brief)
 
