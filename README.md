@@ -3,8 +3,8 @@
 ## Installation and Opening The Tool (Brief)
 
 First, install the entire tool by running CO2Pipeline Setup 0.1.0.exe.
-This can be found in the "Releases" section of this github repository, to the right of this text
-Then, open the UI window by running C:\Users\[username]\AppData\Local\Programs\apptest\CO2Pipeline.exe, if it's not already open
+This can be found in the "Releases" section of this github repository, to the right of this text.
+Then, open the UI window by running C:\Users\[username]\AppData\Local\Programs\apptest\CO2Pipeline.exe, if it's not already open.
 Then, open the server window by running C:\Users\[username]\AppData\Local\Programs\apptest\CO2PRT_Flask.exe.
 Wait for the server program to initialize, waiting until the line "Press CTRL+C to quit" appears on the screen.
 Instruction on tool operation can be found by clicking the "Help Documentation" button in the upper-right corner of the UI program window.
