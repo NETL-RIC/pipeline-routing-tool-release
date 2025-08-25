@@ -1,5 +1,30 @@
 # CO2 Pipeline Routing Tool README
 
+## Opening the tool
+
+As of the v1.2.0 release the tool does not need to be installed and can be run once unzipped. To begin, unzip the Smart_CO2_Transport_v1.2.0.zip where you would like to use the tool. Browse to the unzipped folder. Inside there will be a 
+Smart_CO2_Transport.exe which you can double click to run the program. A console will open to display the status of the tool's server, and a browser window should open once the tool has finished loading. 
+
+### Browser window
+
+The browser window is where the user will interact with the tool. If the browser does not automatically open when the tool is ready or if you would prefer to use a different browser simply type `localhost:5000`
+into the navigation bar of a browser and it should connect to the server as long as the server is still running in the console.
+
+### Console window
+
+The server window program will be ready when the following lines appear on-screen:
+
+	* Running on http://127.0.0.1:5000
+	Press CTRL+C to quit
+
+During tool operation, the server window will have additional lines of text, these can all be ignored and are information for developers.
+
+---
+
+# Pre version 1.2
+
+The instructions below correspond to the installer model prior to the 1.2 release.
+
 ## Installation and Opening The Tool (Brief)
 
 First, install the entire tool by running CO2Pipeline Setup 0.1.0.exe.
